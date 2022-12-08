@@ -1,4 +1,4 @@
-# Prajwal_Web_App_Flask-React
+# Prajwal_Web_App_React
 
 Setup
 npm init -y
